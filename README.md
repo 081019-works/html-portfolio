@@ -1,16 +1,16 @@
 # HTML Portfolio
 
-This is my personal portfolio built while learning web development.
+This is my personal portfolio created while learning web development.
 
 ## Features
-- Basic HTML structure
-- Responsive layout (in progress)
-- Hosted using GitHub Pages
+- Structured using HTML
+- Basic layout implementation
+- Deployed using GitHub Pages
 
-## Next Improvements
-- Add CSS styling
-- Add JavaScript interactivity
-- Connect to backend APIs
+## Upcoming Improvements
+- Apply CSS styling for better design
+- Add JavaScript for interactivity
+- Integrate backend APIs
 
 ## Live Demo
-https://github.com/081019-works/html-portfolio
+https://081019-works.github.io/html-portfolio/
